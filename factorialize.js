@@ -24,4 +24,4 @@ function factorialize(num) {
   }
 }
 
-console.log(factorialize(6));
+console.log(factorialize(5));
